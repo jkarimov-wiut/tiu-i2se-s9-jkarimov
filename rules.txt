@@ -1,0 +1,4 @@
+# Booking rules
+
+1. one student can have one active booking.
+2. cancellation is allowed before the session.
