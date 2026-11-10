@@ -1,1 +1,5 @@
-# tiu-i2se-s9-jkarimov
+# Booking application
+
+purpose: asfasfasfsaf
+team: student a, student b
+feature: booking an appointment ...
